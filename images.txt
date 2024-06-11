@@ -15,7 +15,7 @@ dockurr/windows:latest
 ghcr.io/ollama-webui/ollama-webui:main
 nginx:latest
 bunkerity/bunkerweb:1.5.4
-registry.cn-hangzhou.aliyuncs.com/fastgpt_docker/m3e-large-api:latest
+m3e-large-api:latest
 ankane/pgvector:v0.5.0
 zabbix/zabbix-agent:alpine-6.2-latest
 registry.cn-hangzhou.aliyuncs.com/fastgpt/mongo:5.0.18
