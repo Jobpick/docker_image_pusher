@@ -28,3 +28,5 @@ grafana/grafana:latest
 mongo:latest
 assaflavie/runlike:latest
 w958660278/grafana-cn:latest-dev
+nocobase/nocobase:latest
+mysql:latest
