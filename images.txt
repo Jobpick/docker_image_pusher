@@ -12,7 +12,6 @@ ollama/ollama:latest
 registry.cn-hangzhou.aliyuncs.com/fastgpt/fastgpt:v4.7
 mysql:8.0.36
 dockurr/windows:latest
-qemu-kylin:v1
 ghcr.io/ollama-webui/ollama-webui:main
 nginx:latest
 bunkerity/bunkerweb:1.5.4
