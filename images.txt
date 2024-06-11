@@ -4,3 +4,30 @@ kasmweb/nginx:1.25.3
 --platform=linux/amd64 redis:7.0.15-alpine3.20
 --platform=linux/arm/v7 redis:7.0.15-alpine3.20
 wcjiang/linux-command:latest
+qemux/qemu-arm:latest
+registry.cn-qingdao.aliyuncs.com/dockerbhub/linux-command:latest
+ghcr.io/open-webui/open-webui:main
+ghcr.io/songquanpeng/one-api:latest
+ollama/ollama:latest
+registry.cn-hangzhou.aliyuncs.com/fastgpt/fastgpt:v4.7
+mysq_linux_arm64_v8:latest
+mysql:8.0.36
+dockurr/windows:latest
+qemu-kylin:v1
+ghcr.io/ollama-webui/ollama-webui:main
+nginx:latest
+bunkerity/bunkerweb:1.5.4
+registry.cn-hangzhou.aliyuncs.com/fastgpt_docker/m3e-large-api:latest
+ankane/pgvector:v0.5.0
+zabbix/zabbix-agent:alpine-6.2-latest
+registry.cn-hangzhou.aliyuncs.com/fastgpt/mongo:5.0.18
+utkuozdemir/nvidia_gpu_exporter:1.1.0
+zabbix/zabbix-web-nginx-mysql:alpine-5.4-latest
+zabbix/zabbix-server-mysql:alpine-5.4-latest
+mysql:8
+mysql:latest
+prom/prometheus:latest
+grafana/grafana:latest
+mongo:latest
+assaflavie/runlike:latest
+w958660278/grafana-cn:latest-dev
