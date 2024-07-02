@@ -30,8 +30,6 @@ assaflavie/runlike:latest
 w958660278/grafana-cn:latest-dev
 nocobase/nocobase:latest
 mysql:latest
-#qanything-win:v1.2.2
 quay.io/coreos/etcd:v3.5.5
 minio/minio:RELEASE.2023-03-20T20-16-18Z
-#milvusdb/milvus:v2.3.4
 sickcodes/docker-osx
