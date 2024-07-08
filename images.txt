@@ -1,1 +1,2 @@
 --platform=linux/arm64/v8 rollernaut/oracle19c:latest
+container-registry.oracle.com/database/free:latest
