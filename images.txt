@@ -1,1 +1,3 @@
-openpolicyagent/gatekeeper:v3.17.0
+redis:latest
+busybox:latest
+nginx:latest
