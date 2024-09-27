@@ -1,3 +1,4 @@
 redis:latest
 busybox:latest
 nginx:latest
+localstack/localstack:latest
