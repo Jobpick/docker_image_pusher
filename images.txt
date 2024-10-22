@@ -2,5 +2,4 @@ redis:latest
 busybox:latest
 nginx:latest
 localstack/localstack:latest
-centos:7.6
-centos:7.9
+centos:centos7.6.1810
