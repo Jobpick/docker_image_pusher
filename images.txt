@@ -1,5 +1,7 @@
-docker.io/calico/cni:master
-docker.io/calico/node:master
-docker.io/calico/kube-controllers:master
-docker.io/istio/pilot:1.24.0
 docker.io/istio/proxyv2:1.24.0
+docker.io/istio/examples-bookinfo-details-v1:1.17.0
+docker.io/istio/examples-bookinfo-productpage-v1:1.17.0
+docker.io/istio/examples-bookinfo-ratings-v1:1.17.0
+docker.io/istio/examples-bookinfo-reviews-v1:1.17.0
+docker.io/istio/examples-bookinfo-reviews-v2:1.17.0
+docker.io/istio/examples-bookinfo-reviews-v3:1.17.0
