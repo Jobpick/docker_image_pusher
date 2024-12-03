@@ -1,2 +1,1 @@
-diouxx/glpi
-mariadb:10.7
+centos:7.9
