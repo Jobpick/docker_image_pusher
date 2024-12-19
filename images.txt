@@ -1,1 +1,2 @@
-centos:centos7.9.2009
+docker.io/calico/pod2daemon-flexvol:v3.28.2
+docker.io/calico/typha:v3.28.2
