@@ -1,4 +1,1 @@
-zabbix/zabbix-server-mysql
-zabbix/zabbix-web-nginx-mysql
-zabbix/zabbix-proxy-mysql
-zabbix/zabbix-java-gateway
+mysql:8.0
