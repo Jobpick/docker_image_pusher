@@ -1,1 +1,4 @@
-roboxes/centos8:4.3.14
+zabbix/zabbix-server-mysql
+zabbix/zabbix-web-nginx-mysql
+zabbix/zabbix-proxy-mysql
+zabbix/zabbix-java-gateway
