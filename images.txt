@@ -1,1 +1,1 @@
-ubuntu:22.04
+roboxes/centos8:4.3.14
